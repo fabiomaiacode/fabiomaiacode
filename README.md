@@ -1,9 +1,9 @@
-## Olá, eu sou Fábio Maia<br>
-Um apaixonado por soluções em tecnologia da informação.
+## Hello, i am Fábio Maia<br>
+Passionate about information technology solutions.
 
-📈 Administrador<br>
-💻 Estudante do 2º período de Ciência da Computação<br>
-📕 Estudando Javascript e Python<br>
+📈 Graduation in Business Administration<br>
+💻 Studying Computer Science 2/8<br>
+📕 Studying Javascript and Python<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Fabio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
