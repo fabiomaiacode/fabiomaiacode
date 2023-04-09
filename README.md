@@ -1,7 +1,8 @@
 ## Hello, i am Fábio Maia<br>
 Passionate about information technology solutions.
 
-📈 Graduation in Business Administration<br>
+📈 Degree in Business Administration<br>
+📊 MBA in Business Administration<br>
 💻 Studying Computer Science 2/8<br>
 📕 Studying Javascript and Python<br>
 
